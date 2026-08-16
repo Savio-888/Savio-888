@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Programando desde 2024!<br>📚 Atualmente apredendo Python (Flask) e Linguagem SQL!<br>🎯 Objetivos: Futuramente trabalhar como desenvolvedor Back-end, ou Engenheiro de Dados</p>
+<p data-importer="text" align="left">✨ Programando desde 2024!<br>📚 Atualmente apredendo Python e Linguagem SQL!<br>🎯 Objetivos: Futuramente trabalhar como desenvolvedor Back-end, ou Engenheiro de Dados</p>
 
 ###
 
